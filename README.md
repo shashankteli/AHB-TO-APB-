@@ -17,3 +17,11 @@ The AMBA AHB is for high-performance, high clock frequency system modules. The A
 ## Advanced System Bus(ASB)
 
 The AMBA ASB is for high-performance system modules. AMBA ASB is an alternative system bus suitable for use where the high-performance features of AHB are not required. ASB also supports the efficient connection of processors, on-chip memories and off-chip external memory interfaces with low-power peripheral macrocell functions.
+
+## Advanced Peripheral Bus(APB)
+
+The AMBA APB is for low-power peripherals. AMBA APB is optimized for minimal power consumption and reduced interface complexity to support peripheral functions. APB can be used in conjunction with either version of the system bus.
+
+The overall architecture looks like the following:
+
+
