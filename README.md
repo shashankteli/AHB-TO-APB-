@@ -68,4 +68,8 @@ An AHB bus slave responds to transfers initiated by bus masters within the syste
 
 The AHB to APB bridge comprises a state machine, which is used to control the generation of the APB and AHB output signals, and the address decoding logic which is used to generate the APB peripheral select lines.
 
+# Synthesis Results
+
+
+
 
