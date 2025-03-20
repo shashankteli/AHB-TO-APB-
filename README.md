@@ -88,4 +88,9 @@ Top module simulation
 
 It consists of a write operation followed by a read operation on the AHB Bus which is successfully mapped to the APB bus according to the interfacing.
 
+![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/e30043c6e858d0e99502e37878be2d23474f496f/Top%20module%20sim.jpeg)
+
+AHB-Slave-Interface Simulation
+
+
 
