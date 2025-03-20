@@ -70,6 +70,12 @@ The AHB to APB bridge comprises a state machine, which is used to control the ge
 
 # Synthesis Results
 
+## AHB Slave Interface Synthesis
+
+![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/510188f2be4753c375cfbef1bcce5c957c13547c/AHB%20slave%20synthesis.jpeg)
+
+## APB Controller synthesis
+
 
 
 
