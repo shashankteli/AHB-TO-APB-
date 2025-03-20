@@ -26,3 +26,18 @@ The overall architecture looks like the following:
 
 ![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/7a50c3d4ba07ff52e2c1e6b33cc5626acfd1a6d7/Architecture.jpeg)
 
+## Basic Terminology
+
+### Bus cycle
+
+A bus cycle is a basic unit of one bus clock period and for the purpose of AMBA AHB or APB protocol descriptions is defined from rising-edge to rising-edge transitions.
+
+### Bus transfer
+
+An AMBA ASB or AHB bus transfer is a read or write operation of a data object, which may take one or more bus cycles. The bus transfer is terminated by a completion response from the addressed slave. An AMBA APB bus transfer is a read or write operation of a data object, which always requires two bus cycles.
+
+### Bus operation
+
+A burst operation is defined as one or more data transactions, initiated by a bus master, which have a consistent width of transaction to an incremental region of address space. The increment step per transaction is determined by the width of transfer (byte, halfword, word). No burst operation is supported on the APB.
+
+## AMBA Signals
