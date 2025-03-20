@@ -98,6 +98,11 @@ It consists of a write operation followed by a read operation on the AHB Bus whi
 
 ![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/5cde54fd7adfe6c12ddaeb6596e42157c47730bb/APB%20Controller%20sim.jpeg)
 
+# Further Work
+
+* Include functionality for burst read and burst write operations in AHB Master.
+  
+* Include an arbitration mechanism and arbitration signals to generalise the testbench.
 
 
 
