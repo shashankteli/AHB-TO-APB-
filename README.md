@@ -24,4 +24,5 @@ The AMBA APB is for low-power peripherals. AMBA APB is optimized for minimal pow
 
 The overall architecture looks like the following:
 
+![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/7a50c3d4ba07ff52e2c1e6b33cc5626acfd1a6d7/Architecture.jpeg)
 
