@@ -80,5 +80,7 @@ The AHB to APB bridge comprises a state machine, which is used to control the ge
 
 ## Top module synthesis
 
+![image alt](https://github.com/shashankteli/AHB-TO-APB-/blob/8ec63327bbafd99add4106523f416f2e2c983867/Top%20module%20synthesis.jpeg)
+
 
 
