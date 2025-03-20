@@ -84,6 +84,8 @@ The AHB to APB bridge comprises a state machine, which is used to control the ge
 
 # Simulation Results
 
+Top module simulation
+
 It consists of a write operation followed by a read operation on the AHB Bus which is successfully mapped to the APB bus according to the interfacing.
 
 
